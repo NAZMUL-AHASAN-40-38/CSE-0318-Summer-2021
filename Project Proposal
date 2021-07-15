@@ -1,0 +1,101 @@
+\documentclass[conference]{IEEEtran}
+\IEEEoverridecommandlockouts
+% The preceding line is only needed to identify funding in the first footnote. If that is unneeded, please comment it out.
+\usepackage{cite}
+\usepackage{amsmath,amssymb,amsfonts}
+\usepackage{algorithmic}
+\usepackage{graphicx}
+\usepackage{textcomp}
+\usepackage{xcolor}
+\def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
+    T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
+\begin{document}
+
+\title{Project Proposal:eFood\\
+{\footnotesize \textsuperscript{}CSE-0318 Summer 2021 }
+%\thanks{Identify applicable funding agency here. If none, delete this.}
+}
+
+\author{\IEEEauthorblockN{Nazmul Ahasan}
+\IEEEauthorblockA{\textit{Department of Computer Science and Engineering} \\
+\textit{State University of Bangladesh (SUB)}\\
+Dhaka, Bangladesh \\
+ahsansohel777@gmail.com} 
+%\and
+%\IEEEauthorblockN{Khan Md. Hasib}
+%\IEEEauthorblockA{\textit{Department of Computer Science and Engineering} \\
+%\textit{State University of Bangladesh (SUB)}\\
+%Dhaka, Bangladesh  \\
+%hasib@sub.edu.bd}
+}
+
+\maketitle
+
+\begin{abstract}
+  E-FOOD ORDER SYSTEM is a website designed primarily for use in the food delivery industry. Through these services restaurants can sell and distribute their resources at minimal resource usage effectively with high profits by gaining the customer trust. 
+\end{abstract}
+
+
+\begin{IEEEkeywords}
+HTML, PHP.
+\end{IEEEkeywords}
+
+\section{Introduction}
+Online ordering system that I am proposing here, greatly simplifies the ordering process for both the customer and the restaurant. System presents an interactive and up-to-date menu with all available options in an easy to use manner. Customer can choose one or more items to place an order which will land in the Cart. Customer can view all the order details in the cart before checking out. 
+\section{Objective}
+
+The main objective of the project is to learn and implement a real-time website for Online-Food Ordering System. The project, concentrates on taking orders, streamlining the orders to a specified restaurant and billing. This site will be a great solution for many start-up food business, they can just start initially with less funds by posting their menu online with this website.
+
+
+
+\section{Features}
+
+•	Providing single platform for customers’ orders and restaurants.
+•	Online menu with multiple food varieties.
+•	Easy access for the customers to place and receive orders.
+•	Providing the payment gateway for the restaurant
+•	Check the review of the restaurant before ordering.
+•	Notifying the customer with actual order time and expected delivery time.
+
+
+
+
+
+
+\section*{System and software requirements}
+
+Hardware/Software Interface:
+•	This section lists the minimum hardware and software requirements needed to run the system efficiently.
+Hardware Interface:
+• Pentium Processor
+• 60 MB of free hard-drive space
+• 128 MB of RAM
+
+Software Interface:
+• Operating System: Windows (Vista/7 or above).
+
+\section*{System Model}
+
+The structure of the system can be divided into three main logical components. The first component must provide some form of menu management, allowing the restaurant to control what can be ordered by customers. The second component is the web ordering system and provides the functionality for customers to place their order and supply all necessary details. The third and final logical component is the order retrieval system. Used by the restaurant to keep track of all orders which have been placed, this component takes care of retrieving and displaying order information, as well as updating orders which have already been processed.
+
+\section*{The Web Ordering System}
+
+Users of the web ordering system, namely restaurant customers, must be provided the following functionality:
+•	Create an account.
+•	Manage their account.
+•	Log in to the system.
+•	Navigate the restaurant’s menu.
+•	Select an item from the menu.
+•	Customize options for a selected item.
+•	Add an item to their current order.
+•	Review their current order.
+•	Remove an item/remove all items from their current order.
+•	Provide delivery and payment details.
+•	Place an order.
+•	Receive confirmation in the form of an order number.
+
+
+
+\vspace{12pt}
+
+\end{document}
