@@ -96,6 +96,15 @@ Users of the web ordering system, namely restaurant customers, must be provided 
 
 
 
-\vspace{12pt}
+\section*{Acknowledgment}
 
-\end{document}
+I would like to thank my honourable\textbf{ Khan Md. Hasib Sir} for his time, generosity and critical insights into this project.
+
+
+
+
+\begin{thebibliography}{00}
+\bibitem{b1} Hirschberg, C., Rajko, A., Schumacher, T.,  Wrulich, M. (2016). The changing market for food delivery.
+\bibitem{b2}Vi, C. T., Marzo, A., Ablart, D., Memoli, G., Subramanian, S., Drinkwater, B.,  Obrist, M. (2017, October). Tastyfloats: A contactless food delivery system. In Proceedings of the 2017 ACM International Conference on Interactive Surfaces and Spaces (pp. 161-170).
+\end{thebibliography}
+\vspace{12pt}
